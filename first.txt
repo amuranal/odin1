@@ -1,3 +1,4 @@
 first file
-second line added from GIT
-conflict demo
+second line added local changes
+local change
+
